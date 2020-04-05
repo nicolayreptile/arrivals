@@ -1,0 +1,12 @@
+.order {
+  justify-self: center;
+  text-align: center;
+  font-size: xx-large;
+  padding: 0;
+  flex-wrap: wrap;
+}
+.order h1 {
+  font-weight: 800;
+  padding: 0;
+  margin: 0;
+}

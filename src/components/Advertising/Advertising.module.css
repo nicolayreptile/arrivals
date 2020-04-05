@@ -1,0 +1,16 @@
+.advertising {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100vh;
+}
+
+.advertising .banner {
+  text-align: right;
+  margin: 0;
+  padding: 0;
+}
+
+.advertising .banner img {
+  width: 70%;
+  height: auto;
+}
